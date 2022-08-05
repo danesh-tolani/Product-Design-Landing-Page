@@ -9,4 +9,9 @@ The most challenging things were:
 
 It took me **7 Hours** to complete this project
 
-[Project 15]()
+![](https://img.shields.io/badge/PREVIEW-IMAGE-green)
+![](Product%20Design%20LandingPage.png)
+
+### Click on the below link to checkout the deployed website
+
+[![](https://img.shields.io/badge/LIVE-WEBSITE-blue)](https://product-design-page-danesh.netlify.app/)
